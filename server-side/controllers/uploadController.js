@@ -1,6 +1,7 @@
 const fs = require('fs');
 const fileProcessor = require('../services/fileProcessor');
-
+const NodeCache = require('node-cache');
+const cache = new NodeCache({ stdTTL: 300 }); 
 // DESC: Upload the file and convert it to JSON
 // ACCESS: Public
 // ENDPOINT: /api/upload
@@ -31,6 +32,29 @@ exports.uploadFile = async (req, res) => {
     }
 };
 
+//DESC: Retrieve the day and category
+//ACCESS: Public
+//ENDPOINT: /api/daysandcategory
+//METHOD: GET
+//RESPONSE: JSON
+exports.daysAndCategory = (req, res) => {
+    try {
+        if(!global.uploadedData){
+            return res.status(400).send('No data available.');
+        }
+
+        const data = global.uploadedData.Sheet1;
+        const daysProcessedAndCategory = fileProcessor.calculateNumOfDaysAndCategory(data); 
+        
+        res.json({
+            daysProcessedAndCategory
+        })
+
+    }catch(error){
+        res.status(500).send(`Error processing file: ${error.message}`);
+    }
+}
+
 // DESC: Process the uploaded data (calculate days, sort by category, sort by area)
 // ACCESS: Public
 // ENDPOINT: /api/process-file
@@ -42,17 +66,26 @@ exports.processFile = (req, res) => {
             return res.status(400).send('No data available.');
         }
 
+        // Check if the result is already cached
+        const cachedResult = cache.get('processedData');
+        if (cachedResult) {
+            return res.json(cachedResult);
+        }
+
         const data = global.uploadedData.Sheet1;
 
-        const daysProcessed = fileProcessor.calculateNumOfDays(data);
-        const categorySorted = fileProcessor.sortByCategory(daysProcessed);
-        const areaSorted = fileProcessor.sortByBusinessArea(categorySorted.updatedRows);
+        const daysProcessedAndCategory = fileProcessor.calculateNumOfDaysAndCategory(data);
+        const areaSorted = fileProcessor.sortByBusinessArea(daysProcessedAndCategory);
 
-        res.json({
-            daysProcessed,
-            categoryCounts: categorySorted.categoryCounts,
+        const result = {
+            daysProcessedAndCategory,
             BACount: areaSorted
-        });
+        };
+
+        // Cache the result
+        cache.set('processedData', result);
+
+        res.json(result);
     } catch (error) {
         res.status(500).send(`Error processing file: ${error.message}`);
     }

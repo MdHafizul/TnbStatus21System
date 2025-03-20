@@ -23,5 +23,6 @@ const upload = multer({
 // Define routes
 router.post('/upload', upload.single('file'), uploadController.uploadFile);
 router.get('/process-file', uploadController.processFile);
+router.get('/daysandcategory', uploadController.daysAndCategory);
 
 module.exports = router;

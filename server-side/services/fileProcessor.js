@@ -25,7 +25,7 @@ exports.uploadFile = async (filePath) => {
 };
 
 // Function to calculate the number of days between two dates
-exports.calculateNumOfDays = (data) => {
+exports.calculateNumOfDaysAndCategory = (data) => {
     const today = new Date();
     return data.map(row => {
         const disconnectedDateStr = row['Disconnected Date'];
@@ -42,48 +42,75 @@ exports.calculateNumOfDays = (data) => {
 
         const timeDifference = today - disconnectedDate;
         const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-        return { ...row, daysSinceDisconnection: daysDifference };
-    });
-};
-
-// Function to sort data by category
-exports.sortByCategory = (data) => {
-    const categories = {
-        '0-1Months': 0,
-        '<3Months': 0,
-        '<6Months': 0,
-        '<12Months': 0,
-        '<2Years': 0,
-        '>2Years': 0
-    };
-
-    const updatedRows = data.map(row => {
-        const daysSinceDisconnection = row['daysSinceDisconnection'];
-        if (!daysSinceDisconnection) {
-            return { ...row, category: null };
-        }
+        const businessArea = row['Business Area'];
+        const categories = {
+            '0-1Months': 0,
+            '<3Months': 0,
+            '<6Months': 0,
+            '<12Months': 0,
+            '<2Years': 0,
+            '>2Years': 0
+        };
 
         let category;
-        if (daysSinceDisconnection <= 30) {
+        if (daysDifference <= 30) {
             category = '0-1Months';
-        } else if (daysSinceDisconnection <= 90) {
+        } else if (daysDifference <= 90) {
             category = '<3Months';
-        } else if (daysSinceDisconnection <= 180) {
+        } else if (daysDifference <= 180) {
             category = '<6Months';
-        } else if (daysSinceDisconnection <= 365) {
+        } else if (daysDifference <= 365) {
             category = '<12Months';
-        } else if (daysSinceDisconnection <= 730) {
+        } else if (daysDifference <= 730) {
             category = '<2Years';
         } else {
             category = '>2Years';
         }
 
         categories[category]++;
-        return { ...row, category };
-    });
 
-    return { updatedRows, categoryCounts: categories };
+        return {daysSinceDisconnection: daysDifference, category, BusinessArea: String(businessArea)};
+    });
 };
+
+// Function to sort data by category
+// exports.sortByCategory = (data) => {
+//     const categories = {
+//         '0-1Months': 0,
+//         '<3Months': 0,
+//         '<6Months': 0,
+//         '<12Months': 0,
+//         '<2Years': 0,
+//         '>2Years': 0
+//     };
+
+//     const updatedRows = data.map(row => {
+//         const daysSinceDisconnection = row['daysSinceDisconnection'];
+//         if (!daysSinceDisconnection) {
+//             return { ...row, category: null };
+//         }
+
+//         let category;
+//         if (daysSinceDisconnection <= 30) {
+//             category = '0-1Months';
+//         } else if (daysSinceDisconnection <= 90) {
+//             category = '<3Months';
+//         } else if (daysSinceDisconnection <= 180) {
+//             category = '<6Months';
+//         } else if (daysSinceDisconnection <= 365) {
+//             category = '<12Months';
+//         } else if (daysSinceDisconnection <= 730) {
+//             category = '<2Years';
+//         } else {
+//             category = '>2Years';
+//         }
+
+//         categories[category]++;
+//         return { ...row, category };
+//     });
+
+//     return { updatedRows, categoryCounts: categories };
+// };
 
 // Function to sort data by Business Area
 exports.sortByBusinessArea = (data) => {
@@ -92,8 +119,9 @@ exports.sortByBusinessArea = (data) => {
 
     // Initialize the structure for each business area
     data.forEach(row => {
-        const businessArea = row['Business Area'];
+        const businessArea = String(row['BusinessArea']);
         const category = row['category'];
+        
 
         if (!businessArea || !category) return;
 
@@ -105,6 +133,7 @@ exports.sortByBusinessArea = (data) => {
         // Increment the total and the specific category count
         BACount[businessArea].total++;
         BACount[businessArea][category]++;
+        
     });
 
     return BACount;
