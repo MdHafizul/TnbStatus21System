@@ -83,3 +83,901 @@
 2025-03-20T02:40:38.899Z [info]: Server is running on port 3000
 2025-03-20T02:42:54.490Z [info]: Server is running on port 3000
 2025-03-20T02:46:13.388Z [info]: Server is running on port 3000
+2025-03-20T02:46:35.474Z [info]: Server is running on port 3000
+2025-03-20T02:51:30.070Z [info]: Server is running on port 3000
+2025-03-20T02:51:31.630Z [info]: Server is running on port 3000
+2025-03-20T02:51:32.742Z [info]: Server is running on port 3000
+2025-03-20T02:51:39.792Z [info]: Server is running on port 3000
+2025-03-20T03:02:37.687Z [info]: Server is running on port 3000
+2025-03-20T03:05:27.879Z [info]: Server is running on port 3000
+2025-03-20T03:07:14.890Z [info]: Server is running on port 3000
+2025-03-20T03:07:20.818Z [info]: Server is running on port 3000
+2025-03-20T03:07:37.317Z [info]: Server is running on port 3000
+2025-03-20T03:07:42.064Z [info]: Server is running on port 3000
+2025-03-20T03:08:14.550Z [info]: Server is running on port 3000
+2025-03-20T03:08:18.145Z [info]: Server is running on port 3000
+2025-03-20T03:08:25.247Z [info]: Server is running on port 3000
+2025-03-20T03:08:28.004Z [info]: Server is running on port 3000
+2025-03-20T03:08:33.119Z [info]: Server is running on port 3000
+2025-03-20T03:08:41.651Z [info]: Server is running on port 3000
+2025-03-20T03:08:47.443Z [info]: Server is running on port 3000
+2025-03-20T03:08:52.039Z [info]: Server is running on port 3000
+2025-03-20T03:08:55.589Z [info]: Server is running on port 3000
+2025-03-20T03:08:58.221Z [info]: Server is running on port 3000
+2025-03-20T03:09:18.828Z [info]: Server is running on port 3000
+2025-03-20T03:09:20.568Z [info]: Server is running on port 3000
+2025-03-20T03:09:27.882Z [info]: Server is running on port 3000
+2025-03-20T03:09:40.143Z [info]: Server is running on port 3000
+2025-03-20T03:14:33.825Z [info]: Server is running on port 3000
+2025-03-20T03:14:36.293Z [info]: Server is running on port 3000
+2025-03-20T03:14:51.639Z [info]: Server is running on port 3000
+2025-03-20T03:14:54.481Z [info]: Server is running on port 3000
+2025-03-20T03:15:09.464Z [info]: Server is running on port 3000
+2025-03-20T03:15:26.988Z [info]: Server is running on port 3000
+2025-03-20T03:15:49.139Z [info]: Server is running on port 3000
+2025-03-20T03:16:02.379Z [info]: Server is running on port 3000
+2025-03-20T03:16:18.135Z [info]: Server is running on port 3000
+2025-03-20T03:16:24.275Z [info]: Server is running on port 3000
+2025-03-20T03:16:35.669Z [info]: Server is running on port 3000
+2025-03-20T03:16:37.577Z [info]: Server is running on port 3000
+2025-03-20T03:16:39.370Z [info]: Server is running on port 3000
+2025-03-20T03:16:42.878Z [info]: Server is running on port 3000
+2025-03-20T03:16:44.182Z [info]: Server is running on port 3000
+2025-03-20T03:16:45.621Z [info]: Server is running on port 3000
+2025-03-20T03:16:52.673Z [info]: Server is running on port 3000
+2025-03-20T03:16:59.945Z [info]: Server is running on port 3000
+2025-03-20T03:17:03.000Z [info]: Server is running on port 3000
+2025-03-20T03:17:08.977Z [info]: Server is running on port 3000
+2025-03-20T03:17:33.402Z [info]: Server is running on port 3000
+2025-03-20T03:17:43.096Z [info]: Server is running on port 3000
+2025-03-20T03:17:47.116Z [info]: Server is running on port 3000
+2025-03-20T03:17:51.264Z [info]: Server is running on port 3000
+2025-03-20T03:17:55.909Z [info]: Server is running on port 3000
+2025-03-20T03:17:59.994Z [info]: Server is running on port 3000
+2025-03-20T03:18:03.887Z [info]: Server is running on port 3000
+2025-03-20T03:18:06.201Z [info]: Server is running on port 3000
+2025-03-20T03:18:07.874Z [info]: Server is running on port 3000
+2025-03-20T03:18:10.743Z [info]: Server is running on port 3000
+2025-03-20T03:18:21.905Z [info]: Server is running on port 3000
+2025-03-20T03:22:14.988Z [info]: Server is running on port 3000
+2025-03-20T03:22:16.163Z [info]: Server is running on port 3000
+2025-03-20T03:22:18.074Z [info]: Server is running on port 3000
+2025-03-20T03:22:29.475Z [info]: Server is running on port 3000
+2025-03-20T03:22:36.674Z [info]: Server is running on port 3000
+2025-03-20T03:22:41.776Z [info]: Server is running on port 3000
+2025-03-20T03:22:47.797Z [info]: Server is running on port 3000
+2025-03-20T03:23:25.629Z [info]: Server is running on port 3000
+2025-03-20T03:23:32.786Z [info]: Server is running on port 3000
+2025-03-20T03:23:37.543Z [info]: Server is running on port 3000
+2025-03-20T03:23:39.313Z [info]: Server is running on port 3000
+2025-03-20T03:23:43.295Z [info]: Server is running on port 3000
+2025-03-20T03:23:47.571Z [info]: Server is running on port 3000
+2025-03-20T03:23:50.282Z [info]: Server is running on port 3000
+2025-03-20T03:23:55.377Z [info]: Server is running on port 3000
+2025-03-20T03:23:56.597Z [info]: Server is running on port 3000
+2025-03-20T03:24:01.447Z [info]: Server is running on port 3000
+2025-03-20T03:24:09.038Z [info]: Server is running on port 3000
+2025-03-20T03:24:10.370Z [info]: Server is running on port 3000
+2025-03-20T03:29:05.519Z [info]: Server is running on port 3000
+2025-03-20T03:29:30.384Z [info]: Server is running on port 3000
+2025-03-20T03:29:41.562Z [info]: Server is running on port 3000
+2025-03-20T03:29:44.229Z [info]: Server is running on port 3000
+2025-03-20T03:33:26.246Z [info]: Server is running on port 3000
+2025-03-20T03:33:32.550Z [info]: Server is running on port 3000
+2025-03-20T03:34:01.379Z [info]: Server is running on port 3000
+2025-03-20T03:34:05.893Z [info]: Server is running on port 3000
+2025-03-20T03:34:52.631Z [info]: Server is running on port 3000
+2025-03-20T03:34:58.800Z [info]: Server is running on port 3000
+2025-03-20T03:35:14.867Z [info]: Server is running on port 3000
+2025-03-20T03:35:21.847Z [info]: Server is running on port 3000
+2025-03-20T03:35:30.623Z [info]: Server is running on port 3000
+2025-03-20T03:35:34.424Z [info]: Server is running on port 3000
+2025-03-20T03:35:54.014Z [info]: Server is running on port 3000
+2025-03-20T03:36:01.407Z [info]: Server is running on port 3000
+2025-03-20T03:36:05.623Z [info]: Server is running on port 3000
+2025-03-20T03:36:06.807Z [info]: Server is running on port 3000
+2025-03-20T03:36:13.148Z [info]: Server is running on port 3000
+2025-03-20T03:36:20.270Z [info]: Server is running on port 3000
+2025-03-20T03:36:52.023Z [info]: Server is running on port 3000
+2025-03-20T03:37:14.376Z [info]: Server is running on port 3000
+2025-03-20T03:37:16.704Z [info]: Server is running on port 3000
+2025-03-20T03:37:20.397Z [info]: Server is running on port 3000
+2025-03-20T03:37:35.428Z [info]: Server is running on port 3000
+2025-03-20T03:37:38.454Z [info]: Server is running on port 3000
+2025-03-20T03:37:39.935Z [info]: Server is running on port 3000
+2025-03-20T03:38:47.520Z [info]: Server is running on port 3000
+2025-03-20T03:38:48.618Z [info]: Server is running on port 3000
+2025-03-20T03:38:50.478Z [info]: Server is running on port 3000
+2025-03-20T03:54:55.008Z [info]: Server is running on port 3000
+2025-03-20T03:55:04.851Z [error]: Error: No data available.
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:68:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:05:58.843Z [info]: Server is running on port 3000
+2025-03-20T04:09:39.172Z [info]: Server is running on port 3000
+2025-03-20T04:09:43.162Z [info]: Server is running on port 3000
+2025-03-20T04:09:54.715Z [info]: Server is running on port 3000
+2025-03-20T04:10:01.152Z [info]: Server is running on port 3000
+2025-03-20T04:10:02.793Z [info]: Server is running on port 3000
+2025-03-20T04:12:01.518Z [info]: Server is running on port 3000
+2025-03-20T04:12:07.939Z [info]: Server is running on port 3000
+2025-03-20T04:13:33.819Z [info]: Server is running on port 3000
+2025-03-20T04:18:28.242Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:18:41.314Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:18:49.248Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:19:25.624Z [info]: Server is running on port 3000
+2025-03-20T04:19:52.988Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:20:07.050Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:20:22.723Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:20:30.162Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:22:22.968Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:50:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:23:35.379Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:125:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:24:25.925Z [info]: Server is running on port 3000
+2025-03-20T04:24:44.106Z [error]: Error: No data available.
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:44:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:25:04.265Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:128:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:26:44.316Z [info]: Server is running on port 3000
+2025-03-20T04:27:21.979Z [info]: Server is running on port 3000
+2025-03-20T04:27:26.306Z [info]: Server is running on port 3000
+2025-03-20T04:27:46.052Z [info]: Server is running on port 3000
+2025-03-20T04:27:49.853Z [info]: Server is running on port 3000
+2025-03-20T04:28:55.228Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:126:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:30:17.232Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:53:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:32:52.366Z [info]: Server is running on port 3000
+2025-03-20T04:34:32.476Z [error]: Error: Invalid or missing "type" query parameter. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:53:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T04:55:58.829Z [info]: Server is running on port 3000
+2025-03-20T04:56:03.261Z [info]: Server is running on port 3000
+2025-03-20T04:56:05.140Z [info]: Server is running on port 3000
+2025-03-20T04:56:25.852Z [info]: Server is running on port 3000
+2025-03-20T04:57:14.107Z [info]: Server is running on port 3000
+2025-03-20T04:57:22.488Z [info]: Server is running on port 3000
+2025-03-20T04:57:27.395Z [info]: Server is running on port 3000
+2025-03-20T04:57:32.688Z [info]: Server is running on port 3000
+2025-03-20T04:57:44.780Z [info]: Server is running on port 3000
+2025-03-20T04:57:49.250Z [info]: Server is running on port 3000
+2025-03-20T04:57:55.420Z [info]: Server is running on port 3000
+2025-03-20T04:58:07.450Z [info]: Server is running on port 3000
+2025-03-20T04:58:09.070Z [info]: Server is running on port 3000
+2025-03-20T04:58:10.243Z [info]: Server is running on port 3000
+2025-03-20T04:58:11.853Z [info]: Server is running on port 3000
+2025-03-20T04:58:12.909Z [info]: Server is running on port 3000
+2025-03-20T04:58:15.516Z [info]: Server is running on port 3000
+2025-03-20T04:58:30.728Z [info]: Server is running on port 3000
+2025-03-20T04:59:50.733Z [info]: Server is running on port 3000
+2025-03-20T04:59:53.987Z [info]: Server is running on port 3000
+2025-03-20T05:00:17.958Z [info]: Server is running on port 3000
+2025-03-20T05:00:20.557Z [info]: Server is running on port 3000
+2025-03-20T05:06:59.011Z [info]: Server is running on port 3000
+2025-03-20T05:07:07.005Z [info]: Server is running on port 3000
+2025-03-20T05:07:19.699Z [info]: Server is running on port 3000
+2025-03-20T05:07:28.856Z [info]: Server is running on port 3000
+2025-03-20T05:07:52.360Z [info]: Server is running on port 3000
+2025-03-20T05:07:56.237Z [info]: Server is running on port 3000
+2025-03-20T05:08:20.470Z [info]: Server is running on port 3000
+2025-03-20T05:08:25.033Z [info]: Server is running on port 3000
+2025-03-20T05:09:09.732Z [info]: Server is running on port 3000
+2025-03-20T05:09:10.823Z [info]: Server is running on port 3000
+2025-03-20T05:09:12.121Z [info]: Server is running on port 3000
+2025-03-20T05:09:15.045Z [info]: Server is running on port 3000
+2025-03-20T05:09:17.133Z [info]: Server is running on port 3000
+2025-03-20T05:09:24.806Z [info]: Server is running on port 3000
+2025-03-20T05:09:30.380Z [info]: Server is running on port 3000
+2025-03-20T05:09:39.897Z [info]: Server is running on port 3000
+2025-03-20T05:09:53.253Z [info]: Server is running on port 3000
+2025-03-20T05:10:20.287Z [info]: Server is running on port 3000
+2025-03-20T05:10:27.275Z [info]: Server is running on port 3000
+2025-03-20T05:10:37.668Z [info]: Server is running on port 3000
+2025-03-20T05:11:13.871Z [info]: Server is running on port 3000
+2025-03-20T05:11:26.940Z [error]: Error: No data available.
+    at exports.daysAndCategory (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:44:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T05:12:54.559Z [info]: Server is running on port 3000
+2025-03-20T05:17:35.312Z [info]: Server is running on port 3000
+2025-03-20T05:17:55.724Z [info]: Server is running on port 3000
+2025-03-20T05:19:45.500Z [info]: Server is running on port 3000
+2025-03-20T05:25:03.162Z [info]: Server is running on port 3000
+2025-03-20T05:25:27.250Z [info]: Server is running on port 3000
+2025-03-20T06:09:40.242Z [info]: Server is running on port 3000
+2025-03-20T06:12:51.182Z [info]: Server is running on port 3000
+2025-03-20T06:13:00.952Z [info]: Server is running on port 3000
+2025-03-20T06:17:25.156Z [info]: Server is running on port 3000
+2025-03-20T06:17:30.990Z [info]: Server is running on port 3000
+2025-03-20T06:18:36.222Z [info]: Server is running on port 3000
+2025-03-20T06:19:47.668Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.675Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.678Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.679Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.682Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.684Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.691Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.693Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.696Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.698Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.699Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.707Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.709Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.712Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.714Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.716Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.720Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.723Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.724Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:19:47.727Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.268Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.270Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.274Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.276Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.277Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.278Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.280Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.281Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.282Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.283Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.284Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.289Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.293Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.295Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.296Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.297Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.299Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.300Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.301Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:20:11.302Z [error]: Error: Invalid or missing "x-data-type" header. Must be "disconnected", "revisit", or "belumrevisit".
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:136:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:21:30.009Z [info]: Server is running on port 3000
+2025-03-20T06:21:32.200Z [info]: Server is running on port 3000
+2025-03-20T06:21:43.857Z [info]: Server is running on port 3000
+2025-03-20T06:25:30.120Z [info]: Server is running on port 3000
+2025-03-20T06:25:56.825Z [info]: Server is running on port 3000
+2025-03-20T06:26:02.325Z [info]: Server is running on port 3000
+2025-03-20T06:26:31.330Z [info]: Server is running on port 3000
+2025-03-20T06:26:32.708Z [info]: Server is running on port 3000
+2025-03-20T06:26:34.063Z [info]: Server is running on port 3000
+2025-03-20T06:27:06.846Z [info]: Server is running on port 3000
+2025-03-20T06:27:20.228Z [info]: Server is running on port 3000
+2025-03-20T06:27:25.042Z [info]: Server is running on port 3000
+2025-03-20T06:27:26.568Z [info]: Server is running on port 3000
+2025-03-20T06:27:37.313Z [info]: Server is running on port 3000
+2025-03-20T06:28:07.211Z [info]: Server is running on port 3000
+2025-03-20T06:28:08.631Z [info]: Server is running on port 3000
+2025-03-20T06:28:55.332Z [info]: Server is running on port 3000
+2025-03-20T06:29:27.729Z [info]: Server is running on port 3000
+2025-03-20T06:29:39.275Z [info]: Server is running on port 3000
+2025-03-20T06:29:49.296Z [info]: Server is running on port 3000
+2025-03-20T06:29:57.851Z [info]: Server is running on port 3000
+2025-03-20T06:30:14.077Z [info]: Server is running on port 3000
+2025-03-20T06:30:15.870Z [info]: Server is running on port 3000
+2025-03-20T06:30:25.569Z [info]: Server is running on port 3000
+2025-03-20T06:30:29.802Z [info]: Server is running on port 3000
+2025-03-20T06:30:39.878Z [info]: Server is running on port 3000
+2025-03-20T06:30:50.027Z [info]: Server is running on port 3000
+2025-03-20T06:30:56.773Z [info]: Server is running on port 3000
+2025-03-20T06:31:03.819Z [info]: Server is running on port 3000
+2025-03-20T06:31:04.855Z [info]: Server is running on port 3000
+2025-03-20T06:33:31.922Z [info]: Server is running on port 3000
+2025-03-20T06:33:33.835Z [info]: Server is running on port 3000
+2025-03-20T06:33:38.492Z [info]: Server is running on port 3000
+2025-03-20T06:34:08.155Z [error]: ReferenceError: cache is not defined
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\routes\uploadRoutes.js:30:19
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:34:16.331Z [error]: Error: No data available.
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:150:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:34:22.998Z [error]: ReferenceError: cache is not defined
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\routes\uploadRoutes.js:30:19
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:34:34.992Z [error]: Error: No data available.
+    at exports.processFile (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\controllers\uploadController.js:150:19)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:35:25.304Z [info]: Server is running on port 3000
+2025-03-20T06:35:39.872Z [info]: Server is running on port 3000
+2025-03-20T06:35:41.230Z [info]: Server is running on port 3000
+2025-03-20T06:35:55.105Z [error]: ReferenceError: cache is not defined
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\routes\uploadRoutes.js:30:19
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:35:56.855Z [error]: ReferenceError: cache is not defined
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\routes\uploadRoutes.js:30:19
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\hafiz\OneDrive\Desktop\DebtSentry\server-side\node_modules\express\lib\router\index.js:47:12)
+2025-03-20T06:36:56.451Z [info]: Server is running on port 3000
+2025-03-20T06:40:43.129Z [info]: Server is running on port 3000

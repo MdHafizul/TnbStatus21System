@@ -24,94 +24,65 @@ exports.uploadFile = async (filePath) => {
     });
 };
 
-// Function to calculate the number of days between two dates
-exports.calculateNumOfDaysAndCategory = (data) => {
+// Generic function to calculate the number of days and categorize data
+exports.calculateDaysAndCategory = (data, dateColumn, type) => {
     const today = new Date();
+
     return data.map(row => {
-        const disconnectedDateStr = row['Disconnected Date'];
-        if (!disconnectedDateStr) {
-            return { ...row, daysSinceDisconnection: null };
-        }
-
-        const [day, month, year] = disconnectedDateStr.split('.').map(Number);
-        const disconnectedDate = new Date(year, month - 1, day);
-
-        if (isNaN(disconnectedDate)) {
-            return { ...row, daysSinceDisconnection: null };
-        }
-
-        const timeDifference = today - disconnectedDate;
-        const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+        const dateStr = row[dateColumn];
         const businessArea = row['Business Area'];
-        const categories = {
-            '0-1Months': 0,
-            '<3Months': 0,
-            '<6Months': 0,
-            '<12Months': 0,
-            '<2Years': 0,
-            '>2Years': 0
-        };
+        let category = null;
 
-        let category;
-        if (daysDifference <= 30) {
-            category = '0-1Months';
-        } else if (daysDifference <= 90) {
-            category = '<3Months';
-        } else if (daysDifference <= 180) {
-            category = '<6Months';
-        } else if (daysDifference <= 365) {
-            category = '<12Months';
-        } else if (daysDifference <= 730) {
-            category = '<2Years';
-        } else {
-            category = '>2Years';
+        if (!businessArea) {
+            return null; // Skip rows without a business area
         }
 
-        categories[category]++;
+        if (type === 'disconnected' || type === 'revisit') {
+            if (!dateStr) {
+                return null; // Skip rows without a date
+            }
 
-        return {daysSinceDisconnection: daysDifference, category, BusinessArea: String(businessArea)};
-    });
+            const [day, month, year] = dateStr.split('.').map(Number);
+            const parsedDate = new Date(year, month - 1, day);
+
+            if (isNaN(parsedDate)) {
+                return null; // Skip rows with invalid dates
+            }
+
+            const timeDifference = today - parsedDate;
+            const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+
+            // Categorize based on days difference
+            if (daysDifference <= 30) {
+                category = '0-1Months';
+            } else if (daysDifference <= 90) {
+                category = '<3Months';
+            } else if (daysDifference <= 180) {
+                category = '<6Months';
+            } else if (daysDifference <= 365) {
+                category = '<12Months';
+            } else if (daysDifference <= 730) {
+                category = '<2Years';
+            } else {
+                category = '>2Years';
+            }
+
+            return {
+                daysSince: daysDifference,
+                category,
+                BusinessArea: String(businessArea)
+            };
+        } else if (type === 'belumrevisit') {
+            // For belumrevisit, this will be calculated in the controller
+            return {
+                category: 'Belum Revisit',
+                BusinessArea: String(businessArea)
+            };
+        }
+
+        return null; // Default case
+    }).filter(row => row !== null); // Filter out null rows
 };
-
-// Function to sort data by category
-// exports.sortByCategory = (data) => {
-//     const categories = {
-//         '0-1Months': 0,
-//         '<3Months': 0,
-//         '<6Months': 0,
-//         '<12Months': 0,
-//         '<2Years': 0,
-//         '>2Years': 0
-//     };
-
-//     const updatedRows = data.map(row => {
-//         const daysSinceDisconnection = row['daysSinceDisconnection'];
-//         if (!daysSinceDisconnection) {
-//             return { ...row, category: null };
-//         }
-
-//         let category;
-//         if (daysSinceDisconnection <= 30) {
-//             category = '0-1Months';
-//         } else if (daysSinceDisconnection <= 90) {
-//             category = '<3Months';
-//         } else if (daysSinceDisconnection <= 180) {
-//             category = '<6Months';
-//         } else if (daysSinceDisconnection <= 365) {
-//             category = '<12Months';
-//         } else if (daysSinceDisconnection <= 730) {
-//             category = '<2Years';
-//         } else {
-//             category = '>2Years';
-//         }
-
-//         categories[category]++;
-//         return { ...row, category };
-//     });
-
-//     return { updatedRows, categoryCounts: categories };
-// };
-
 // Function to sort data by Business Area
 exports.sortByBusinessArea = (data) => {
     const categories = ['0-1Months', '<3Months', '<6Months', '<12Months', '<2Years', '>2Years'];
@@ -121,7 +92,7 @@ exports.sortByBusinessArea = (data) => {
     data.forEach(row => {
         const businessArea = String(row['BusinessArea']);
         const category = row['category'];
-        
+
 
         if (!businessArea || !category) return;
 
@@ -133,8 +104,11 @@ exports.sortByBusinessArea = (data) => {
         // Increment the total and the specific category count
         BACount[businessArea].total++;
         BACount[businessArea][category]++;
-        
+
     });
 
     return BACount;
 };
+
+
+

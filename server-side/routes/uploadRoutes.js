@@ -22,7 +22,18 @@ const upload = multer({
 
 // Define routes
 router.post('/upload', upload.single('file'), uploadController.uploadFile);
+router.get('/days-category', uploadController.daysAndCategory);
 router.get('/process-file', uploadController.processFile);
-router.get('/daysandcategory', uploadController.daysAndCategory);
+
+//new route to monitor cache status
+router.get('/cache-status', (req, res) => {
+    const stats = cache.getStats();
+    res.json({
+        hits: stats.hits,
+        misses: stats.misses,
+        keys: cache.keys(),
+        cacheSize: cache.keys().length
+    });
+});
 
 module.exports = router;
